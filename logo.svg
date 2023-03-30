@@ -21,8 +21,8 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="0.816"
-     inkscape:cx="281.25"
-     inkscape:cy="500"
+     inkscape:cx="423.40686"
+     inkscape:cy="512.2549"
      inkscape:window-width="1920"
      inkscape:window-height="1021"
      inkscape:window-x="0"
@@ -388,7 +388,10 @@
      class="cls-8"
      width="1000"
      height="1000"
-     id="rect278" />
+     id="rect278"
+     ry="218.89885"
+     x="0"
+     y="0" />
   <rect
      class="cls-15"
      x="746.83"
