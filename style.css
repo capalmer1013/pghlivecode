@@ -1,0 +1,13 @@
+body {
+    background-color: #333;
+}
+
+h1 {
+    text-align: center;
+    color: #fff;
+    font-family: 'Fira Code', monospace;
+}
+
+img {
+    width: 100%;
+}
