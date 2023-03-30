@@ -13,16 +13,18 @@ p {
     text-align: center;
     color: #fff;
     font-family: 'Fira Code';
-    font-size: 2.5em;
+    font-size: 2.5rem;
 }
 
-img {
-    width: 100%;
-}
-
-svg {
+.logo {
     display: block;
     margin: auto;
-    width: 10em; 
-    height: auto;
+    width: auto;
+    max-height: 75%;
+}
+.social-logo {
+    display: block;
+    margin: auto;
+    width: auto; 
+    height: 4rem;
 } 
